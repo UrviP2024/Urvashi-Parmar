@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Urvashi Parmar
 
-🎓 Student | 💻 Aspiring Developer | 🚀 Tech Enthusiast
+🎓 Student | 💻 Web Developer |
 
 ---
 
